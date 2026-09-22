@@ -83,9 +83,9 @@ Developing small projects and programs using **Python, Java, and C** to strength
 
 💼 LinkedIn: "https://www.linkedin.com/in/sana-sulthana-518438338"
 
-🌐 Portfolio:" https://www.linkedin.com/in/sana-sulthana-518438338"
+🌐 Portfolio: "https://sanasulthana-45.github.io/sana-portfolio/"
 
-📧 Email: **Add your professional email**
+📧 Email: "sanasulthana67@gmail.com"
 
 ---
 
